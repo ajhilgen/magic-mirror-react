@@ -1,0 +1,19 @@
+{
+  "name": "magic-mirror-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajhilgen/magic-mirror-react.git"
+  },
+  "author": "Adam Hilgenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajhilgen/magic-mirror-react/issues"
+  },
+  "homepage": "https://github.com/ajhilgen/magic-mirror-react#readme"
+}
